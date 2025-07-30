@@ -63,6 +63,7 @@ Metadata: ts_event, symbol
 The notebooks produce visualizations like this:<img width="861" height="588" alt="image" src="https://github.com/user-attachments/assets/cecca6e9-3e20-4e6d-b480-4c0595aba114" />
 
 
+---
 
 ##🧰 Technologies Used
 Python 3.x
@@ -75,6 +76,8 @@ Matplotlib
 
 Jupyter Notebook
 
+---
+
 ##🧮 Future Improvements
 Apply convex optimization techniques for optimal order scheduling
 
@@ -82,10 +85,12 @@ Integrate more realistic transaction cost models
 
 Extend to sell-side impact and multiple asset classes
 
+---
+
 ##👨‍💻 Author
 Het Patel
 Department of Computer Science & Engineering
 Nirma University
-GitHub: @hetpatel
+
 
 
