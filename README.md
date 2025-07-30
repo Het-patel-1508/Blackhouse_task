@@ -39,11 +39,12 @@ The **temporary impact function** \\( g_t(x) \\) quantifies this cost when placi
 git clone https://github.com/yourusername/blockhouse-task.git
 cd blockhouse-task
 
-2.Launch Jupyter Notebook:
+```
 
 
-Edit
-jupyter notebook
+
+2.Edit jupyter notebook
+
 Open one of the notebooks:
 
 blockhouse_task.ipynb for sample strategy modeling
@@ -59,10 +60,11 @@ Sizes: bid_sz_00 to bid_sz_09, ask_sz_00 to ask_sz_09
 Metadata: ts_event, symbol
 
 📈 Example Output
-The notebooks produce visualizations like this:
+The notebooks produce visualizations like this:<img width="861" height="588" alt="image" src="https://github.com/user-attachments/assets/cecca6e9-3e20-4e6d-b480-4c0595aba114" />
 
 
-🧰 Technologies Used
+
+##🧰 Technologies Used
 Python 3.x
 
 Pandas
@@ -73,14 +75,14 @@ Matplotlib
 
 Jupyter Notebook
 
-🧮 Future Improvements
+##🧮 Future Improvements
 Apply convex optimization techniques for optimal order scheduling
 
 Integrate more realistic transaction cost models
 
 Extend to sell-side impact and multiple asset classes
 
-👨‍💻 Author
+##👨‍💻 Author
 Het Patel
 Department of Computer Science & Engineering
 Nirma University
