@@ -68,15 +68,16 @@ The notebooks produce visualizations like this:<img width="861" height="588" alt
 
 
 ## 🧰 Technologies Used
-Python 3.x
 
-Pandas
+1.Python 3.x
 
-NumPy
+2.Pandas
 
-Matplotlib
+3.NumPy
 
-Jupyter Notebook
+4.Matplotlib
+
+5.Jupyter Notebook
 
 ---
 
@@ -90,8 +91,8 @@ Extend to sell-side impact and multiple asset classes
 
 ---
 ## 👨‍💻 Author
-Het Patel
-Department of Computer Science & Engineering
+Het Patel,
+Department of Computer Science & Engineering,
 Nirma University
 
 
