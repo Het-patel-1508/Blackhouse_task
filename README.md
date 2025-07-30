@@ -65,7 +65,9 @@ The notebooks produce visualizations like this:<img width="861" height="588" alt
 
 ---
 
-##🧰 Technologies Used
+
+
+## 🧰 Technologies Used
 Python 3.x
 
 Pandas
@@ -78,7 +80,8 @@ Jupyter Notebook
 
 ---
 
-##🧮 Future Improvements
+
+## 🧮 Future Improvements
 Apply convex optimization techniques for optimal order scheduling
 
 Integrate more realistic transaction cost models
@@ -86,8 +89,7 @@ Integrate more realistic transaction cost models
 Extend to sell-side impact and multiple asset classes
 
 ---
-
-##👨‍💻 Author
+## 👨‍💻 Author
 Het Patel
 Department of Computer Science & Engineering
 Nirma University
