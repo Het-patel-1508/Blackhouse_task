@@ -38,3 +38,52 @@ The **temporary impact function** \\( g_t(x) \\) quantifies this cost when placi
 ```bash
 git clone https://github.com/yourusername/blockhouse-task.git
 cd blockhouse-task
+
+2.Launch Jupyter Notebook:
+
+
+Edit
+jupyter notebook
+Open one of the notebooks:
+
+blockhouse_task.ipynb for sample strategy modeling
+
+excel_slippage_analysis.ipynb for real LOB analysis using Excel
+
+Replace placeholder Excel filename (your_file.xlsx) in the code with your actual file, containing:
+
+Columns: bid_px_00 to bid_px_09, ask_px_00 to ask_px_09
+
+Sizes: bid_sz_00 to bid_sz_09, ask_sz_00 to ask_sz_09
+
+Metadata: ts_event, symbol
+
+📈 Example Output
+The notebooks produce visualizations like this:
+
+
+🧰 Technologies Used
+Python 3.x
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Jupyter Notebook
+
+🧮 Future Improvements
+Apply convex optimization techniques for optimal order scheduling
+
+Integrate more realistic transaction cost models
+
+Extend to sell-side impact and multiple asset classes
+
+👨‍💻 Author
+Het Patel
+Department of Computer Science & Engineering
+Nirma University
+GitHub: @hetpatel
+
+
